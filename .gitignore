@@ -5,3 +5,4 @@ twistd.pid
 scvi_model
 rik_kernel*
 geckodriver*
+data
